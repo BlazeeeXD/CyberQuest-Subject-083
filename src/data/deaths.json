@@ -1,0 +1,12 @@
+[
+  {
+    "id": "usb_death",
+    "title": "The Curious Incident of the Free Flash Drive",
+    "description": "Plugged an unknown USB stick directly into a workstation."
+  },
+  {
+    "id": "phishing_death",
+    "title": "The Nigerian Prince Premium Upgrade",
+    "description": "Opened an unverified attachment promising infinite cloud credits."
+  }
+]
